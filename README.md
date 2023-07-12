@@ -1,1 +1,1 @@
-# simple-calculator
+Este é um projeto de calculadora simples, para treinar os conhecimentos de HTML, CSS e Javascript.
